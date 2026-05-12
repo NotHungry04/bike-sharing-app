@@ -1,7 +1,7 @@
 
   # Bike Sharing App
 
-  This is a code bundle for Bike Sharing App. The original project is available at https://www.figma.com/design/pm3wUzj2IEhCcYSiM9L321/Bike-Sharing-App.
+  This code i used figma for UI and trae for front and backend
 
   ## Running the code
 
